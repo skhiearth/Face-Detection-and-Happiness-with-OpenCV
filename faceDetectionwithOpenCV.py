@@ -7,9 +7,9 @@ import time
 
 
 # Loading the cascades
-face_cascade = cv2.CascadeClassifier('/Users/skhiearth/Desktop/Face-Detection-and-Happiness-with-OpenCV/haarcascade_frontalface.xml')
-eye_cascade = cv2.CascadeClassifier('/Users/skhiearth/Desktop/Face-Detection-and-Happiness-with-OpenCV/haarcascade_eye.xml')
-smile_cascade = cv2.CascadeClassifier('/Users/skhiearth/Desktop/Face-Detection-and-Happiness-with-OpenCV/haarcascade_smile.xml')
+face_cascade = cv2.CascadeClassifier('/Users/skhiearth/Desktop/Face-and-Happiness-Detection-with-OpenCV/haarcascade_frontalface.xml')
+eye_cascade = cv2.CascadeClassifier('/Users/skhiearth/Desktop/Face-and-Happiness-Detection-with-OpenCV/haarcascade_eye.xml')
+smile_cascade = cv2.CascadeClassifier('/Users/skhiearth/Desktop/Face-and-Happiness-Detection-with-OpenCV/haarcascade_smile.xml')
 
 # Face Detector
 def face_detector(grayScale, originalFrame):
