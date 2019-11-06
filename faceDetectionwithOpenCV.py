@@ -31,10 +31,7 @@ def face_detector(grayScale, originalFrame):
 
 
 # Accessing webcam to detect face
-video_capture = cv2.VideoCapture('zuckerberg.mp4') 
-
-if (video_capture.isOpened()== False): 
-  print("Error opening video stream or file")
+video_capture = cv2.VideoCapture(0) 
 
 while True: 
     re, frame = video_capture.read()
