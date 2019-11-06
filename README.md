@@ -1,1 +1,1 @@
-![]('https://github.com/skhiearth/Face-Detection-and-Happiness-with-OpenCV/blob/master/Outputs/1.png')
+![Output 1]('Outputs/1.png')
