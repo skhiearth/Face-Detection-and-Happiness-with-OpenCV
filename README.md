@@ -1,2 +1,5 @@
-![]('https://raw.githubusercontent.com/skhiearth/Face-Detection-and-Happiness-with-OpenCV/master/Outputs/1.png')
-![]('https://raw.githubusercontent.com/skhiearth/Face-Detection-and-Happiness-with-OpenCV/master/Outputs/3.png')
+# Face and Happiness Detection with OpenCV
+
+Implementing a Face Detector with Happiness Detection using OpenCV in Python. 
+
+See sample outputs in the 'Outputs' folder.
